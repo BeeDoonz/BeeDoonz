@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 💻 I'm currently working and studying to become a **DevOps Engineer**
+- 💻 I'm currently studying to become a **DevOps Engineer**
 - 🌐 I'm passionate about **Cloud Technologies**, especially **AWS** and **Azure**
 - 🤖 I’m also interested in **AI** and how it blends with cloud and automation
 
