@@ -11,7 +11,6 @@
 - 💻 I'm currently working and studying to become a **DevOps Engineer**
 - 🌐 I'm passionate about **Cloud Technologies**, especially **AWS** and **Azure**
 - 🤖 I’m also interested in **AI** and how it blends with cloud and automation
-- 🔐 Security in cloud environments is a field I'm diving deeper into
 
 ---
 
@@ -21,7 +20,6 @@
 - ☸️ Kubernetes  
 - 🔧 Terraform  
 - ⚙️ CI/CD Pipelines  
-- 📁 GitOps & Infrastructure as Code (IaC)
 
 ---
 
@@ -30,13 +28,12 @@
 - ✅ Get certified in AWS & Terraform  
 - ✅ Contribute to Open Source DevOps projects  
 - ✅ Build personal infrastructure on the cloud  
-- ✅ Share more content and insights on GitHub
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(coloca teu link aqui)*
+- 💼 [LinkedIn](https://www.linkedin.com) *[](https://www.linkedin.com/in/felipe-thales-722437353/)*
 - 📘 My projects are here on [GitHub](https://github.com/BeeDoonz)
 
 ---
